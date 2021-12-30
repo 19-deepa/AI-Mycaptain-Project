@@ -1,1 +1,1 @@
-# AI-Mycaptain-Project
+print Hello World!
